@@ -1,7 +1,7 @@
 # acronym_generator
 Program that creates acronym from word given. Data based on famous quotes, Shakespeare plays, State of the Union addresses, inauguration speeches, and the Bible.
 
-Web app implementation [here](http://www.boboddy.net/) and source code [here](https://github.com/jakeane/acronym_app)
+Web app implementation [here](http://www.boboddy.net/) and its source code [here](https://github.com/jakeane/acronym_app)
 
 Examples ("word", "data"): 
 
